@@ -28,7 +28,7 @@ Follow these steps to set up and run the Todo React app:
 2. Navigate to the project directory:
 
    ```bash
-   cd todo-react-vite
+   cd react-todos
    ```
 
 3. Install dependencies:
