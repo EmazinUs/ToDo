@@ -22,7 +22,7 @@ Follow these steps to set up and run the Todo React app:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-react-vite.git
+   git clone https://github.com/EmazinUs/ToDo.git
    ```
 
 2. Navigate to the project directory:
@@ -35,17 +35,13 @@ Follow these steps to set up and run the Todo React app:
 
    ```bash
    npm install
-   # or
-   yarn
-   ```
+    ```
 
 4. Start the development server:
 
    ```bash
    npm run dev
-   # or
-   yarn dev
-   ```
+      ```
 
 5. Open your browser and visit `http://localhost:3000` to view the Todo app.
 
